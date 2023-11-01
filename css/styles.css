@@ -4509,6 +4509,9 @@ td:last-child {
 	margin-bottom: var(--vspace-2_5);
 }
 
+.como-jogar{
+	text-align: center;
+}
 .entry__media .featured-image {
 	margin: 0;
 }
